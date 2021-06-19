@@ -1,0 +1,3 @@
+# Project exclude paths
+/gatsby/node_modules/
+/sanity/node_modules/
