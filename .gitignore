@@ -1,3 +1,5 @@
 # Project exclude paths
 /gatsby/node_modules/
+/gatsby/.cache/
+/gatsby/public/
 /sanity/node_modules/
